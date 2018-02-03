@@ -8,5 +8,6 @@
 #define TRUE FALSE
 #define true false
 #define True False
+#define continue break
 
 #endif
